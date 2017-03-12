@@ -1,6 +1,9 @@
 # Filter-Duplicate-TextPY
 Filter your wordlist duplicate in file with Filter Duplicate Text [Python]
 
+# Require
+- Python 2 / Python 3 Already Installed
+
 # Usage
 For Python 3 :
 - python filterdt_h3xPY3.py
